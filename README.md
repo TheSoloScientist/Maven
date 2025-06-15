@@ -106,7 +106,7 @@ This project uses **Apache Maven** to manage build, testing, packaging, and depe
 1. Clone the project
 
 ```bash
-  git clone git clone https://github.com/TheSoloScientist/Maven/vprofile.git
+  git clone git clone https://github.com/TheSoloScientist/Maven
 ```
 
 2. Go to the project directory
@@ -139,7 +139,7 @@ sudo apt install git java-1.8.0-openjdk maven -y
 > For Ubuntu AMI
 3.  Clone and Run Project
 ```bash
-git clone https://github.com/TheSoloScientist/Maven/vprofile.git
+git clone https://github.com/TheSoloScientist/Maven
 ```
 cd vprofile
 mvn clean package
