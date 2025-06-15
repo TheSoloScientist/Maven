@@ -134,8 +134,9 @@ Open ports: 22 (SSH), 8080 (App), 80 (HTTP) in security group
 
 2. Install Required Software
 ```bash
-sudo yum install git java-1.8.0-openjdk maven -y
+sudo apt install git java-1.8.0-openjdk maven -y
 ```
+> For Ubuntu AMI
 3.  Clone and Run Project
 ```bash
 git clone https://github.com/TheSoloScientist/Maven/vprofile.git
