@@ -149,24 +149,24 @@ mvn jetty:run
 Visit: http://<EC2_PUBLIC_IP>:8080/ 
 ```
 ## Demo
-Here is a screenshot of the app:
-![Demo Screenshot](images/demo.png/ec2.png)
+Here are screenshot of the app:
+---
+Create an EC2 instance
+![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/ec2.png)
 
+---
+Install Java-version dependencies
+![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/jdk.png)
 
-![Demo Screenshot](images/demo.png/login.png)
+---
+Install maven:
+![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/mvn.png)
 
+**Run**: mvn test
+![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/test.png)
 
-![Demo Screenshot](images/demo.png/jdk.png)
-
-![Demo Screenshot](images/demo.png/mvn.test)
-
-![Demo Screenshot](images/demo.png/test.png)
-
-
-![Demo Screenshot](images/demo.png/"build success.png")
-
-
-![Demo Screenshot](images/demo.png/test.png)
+![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/final.png)
+---
 
 ## Lessons Learned
 
