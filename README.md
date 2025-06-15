@@ -106,7 +106,7 @@ This project uses **Apache Maven** to manage build, testing, packaging, and depe
 1. Clone the project
 
 ```bash
-  git clone git clone https://github.com/TheSoloScientist/Maven
+  git clone https://github.com/TheSoloScientist/Maven
 ```
 
 2. Go to the project directory
