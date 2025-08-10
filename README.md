@@ -150,7 +150,7 @@ mvn jetty:run
 Visit: http://<EC2_PUBLIC_IP>:8080/ 
 ```
 ## Demo
-Here are screenshot of the app:
+Here are the screenshots to follow-along:
 ---
 Create an EC2 instance
 ![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/ec2.png)
