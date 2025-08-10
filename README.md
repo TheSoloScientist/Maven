@@ -156,10 +156,12 @@ Create an EC2 instance
 ![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/ec2.png)
 
 ---
-Install Java-version dependencies
+
+Install Java-version dependencies onto the EC2 instance
 ![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/jdk.png)
 
 ---
+
 Install maven:
 ![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/mvn.png)
 
@@ -167,11 +169,11 @@ Install maven:
 ![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/test.png)
 
 ![Demo Screenshot](https://github.com/TheSoloScientist/Maven/blob/main/demo.png/final.png)
+
+
 ---
 
 ## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 This Maven-powered project illustrates how to:
 - Automate Java build workflows
